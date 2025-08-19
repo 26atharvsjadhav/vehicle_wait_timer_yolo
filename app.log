@@ -1,0 +1,133 @@
+2025-08-14 10:15:07,161 - INFO - Loading detection model...
+2025-08-14 10:15:52,896 - DEBUG - Vehicle 0 entered ROI
+2025-08-14 10:15:52,898 - DEBUG - Vehicle 1 entered ROI
+2025-08-14 10:15:53,064 - DEBUG - Vehicle 1 exited ROI after 0.00s
+2025-08-14 10:15:53,685 - DEBUG - Vehicle 3 entered ROI
+2025-08-14 10:15:53,844 - DEBUG - Vehicle 3 exited ROI after 0.00s
+2025-08-14 10:15:54,001 - DEBUG - Vehicle 3 entered ROI
+2025-08-14 10:15:54,158 - DEBUG - Vehicle 3 exited ROI after 0.00s
+2025-08-14 10:15:54,328 - DEBUG - Vehicle 3 entered ROI
+2025-08-14 10:15:54,482 - DEBUG - Vehicle 4 entered ROI
+2025-08-14 10:15:54,483 - DEBUG - Vehicle 3 exited ROI after 0.00s
+2025-08-14 10:15:54,649 - DEBUG - Vehicle 3 entered ROI
+2025-08-14 10:15:54,810 - DEBUG - Vehicle 3 exited ROI after 0.00s
+2025-08-14 10:15:54,963 - DEBUG - Vehicle 3 entered ROI
+2025-08-14 10:15:55,273 - DEBUG - Vehicle 3 exited ROI after 0.16s
+2025-08-14 10:15:55,436 - DEBUG - Vehicle 5 entered ROI
+2025-08-14 10:15:56,076 - DEBUG - Vehicle 6 entered ROI
+2025-08-14 10:15:56,235 - DEBUG - Vehicle 6 exited ROI after 0.00s
+2025-08-14 10:15:56,543 - DEBUG - Vehicle 6 entered ROI
+2025-08-14 10:15:56,705 - DEBUG - Vehicle 9 entered ROI
+2025-08-14 10:15:57,336 - DEBUG - Vehicle 11 entered ROI
+2025-08-14 10:15:58,144 - DEBUG - Vehicle 13 entered ROI
+2025-08-14 10:16:00,176 - DEBUG - Vehicle 18 entered ROI
+2025-08-14 10:16:04,522 - DEBUG - Vehicle 6 exited ROI after 7.82s
+2025-08-14 10:16:04,819 - DEBUG - Vehicle 26 entered ROI
+2025-08-14 10:16:05,133 - DEBUG - Vehicle 26 exited ROI after 0.16s
+2025-08-14 10:16:05,764 - DEBUG - Vehicle 28 entered ROI
+2025-08-14 10:16:05,936 - DEBUG - Vehicle 28 exited ROI after 0.00s
+2025-08-14 10:16:06,091 - DEBUG - Vehicle 30 entered ROI
+2025-08-14 10:16:06,248 - DEBUG - Vehicle 30 exited ROI after 0.00s
+2025-08-14 10:16:06,406 - DEBUG - Vehicle 31 entered ROI
+2025-08-14 10:16:06,559 - DEBUG - Vehicle 31 exited ROI after 0.00s
+2025-08-14 10:16:06,722 - DEBUG - Vehicle 32 entered ROI
+2025-08-14 10:16:06,881 - DEBUG - Vehicle 32 exited ROI after 0.00s
+2025-08-14 10:16:07,041 - DEBUG - Vehicle 34 entered ROI
+2025-08-14 10:16:07,201 - DEBUG - Vehicle 34 exited ROI after 0.00s
+2025-08-14 10:16:07,369 - DEBUG - Vehicle 35 entered ROI
+2025-08-14 10:16:10,032 - DEBUG - Vehicle 39 entered ROI
+2025-08-14 10:16:11,267 - DEBUG - Vehicle 40 entered ROI
+2025-08-14 10:16:11,905 - DEBUG - Vehicle 41 entered ROI
+2025-08-14 10:16:25,804 - DEBUG - Vehicle 35 exited ROI after 18.31s
+2025-08-14 10:16:25,971 - DEBUG - Vehicle 35 entered ROI
+2025-08-14 10:16:27,108 - DEBUG - Vehicle 35 exited ROI after 0.98s
+2025-08-14 10:16:28,827 - DEBUG - Vehicle 35 entered ROI
+2025-08-14 10:16:29,625 - DEBUG - Vehicle 35 exited ROI after 0.64s
+2025-08-14 10:16:29,802 - DEBUG - Vehicle 35 entered ROI
+2025-08-14 10:16:30,679 - DEBUG - Vehicle 35 exited ROI after 0.72s
+2025-08-14 10:16:31,434 - DEBUG - Vehicle 35 entered ROI
+2025-08-14 10:16:32,678 - DEBUG - Vehicle 52 entered ROI
+2025-08-14 10:16:33,615 - DEBUG - Vehicle 52 exited ROI after 0.79s
+2025-08-14 10:16:34,276 - DEBUG - Vehicle 54 entered ROI
+2025-08-14 10:16:34,424 - DEBUG - Vehicle 54 exited ROI after 0.00s
+2025-08-14 10:16:34,577 - DEBUG - Vehicle 56 entered ROI
+2025-08-14 10:16:34,733 - DEBUG - Vehicle 56 exited ROI after 0.00s
+2025-08-14 10:16:34,893 - DEBUG - Vehicle 57 entered ROI
+2025-08-14 10:16:36,593 - DEBUG - Vehicle 58 entered ROI
+2025-08-14 10:16:37,202 - DEBUG - Vehicle 35 exited ROI after 5.62s
+2025-08-14 10:16:37,517 - DEBUG - Vehicle 35 entered ROI
+2025-08-14 10:16:37,824 - DEBUG - Vehicle 35 exited ROI after 0.16s
+2025-08-14 10:16:38,170 - DEBUG - Vehicle 35 entered ROI
+2025-08-14 10:16:38,940 - DEBUG - Vehicle 35 exited ROI after 0.62s
+2025-08-14 10:16:39,093 - DEBUG - Vehicle 35 entered ROI
+2025-08-14 10:16:43,969 - DEBUG - Vehicle 4 exited ROI after 49.33s
+2025-08-14 10:16:44,126 - DEBUG - Vehicle 35 exited ROI after 4.88s
+2025-08-14 10:16:44,434 - DEBUG - Vehicle 62 entered ROI
+2025-08-14 10:16:44,435 - DEBUG - Vehicle 63 entered ROI
+2025-08-14 10:16:46,284 - DEBUG - Vehicle 65 entered ROI
+2025-08-14 10:16:46,770 - DEBUG - Vehicle 66 entered ROI
+2025-08-14 10:16:47,228 - DEBUG - Vehicle 67 entered ROI
+2025-08-14 10:16:49,708 - DEBUG - Vehicle 70 entered ROI
+2025-08-14 10:16:50,678 - DEBUG - Vehicle 71 entered ROI
+2025-08-14 10:16:50,679 - DEBUG - Vehicle 56 entered ROI
+2025-08-14 10:16:50,994 - DEBUG - Vehicle 35 entered ROI
+2025-08-14 10:16:51,448 - DEBUG - Vehicle 72 entered ROI
+2025-08-14 10:16:51,918 - DEBUG - Vehicle 73 entered ROI
+2025-08-14 10:16:52,366 - DEBUG - Vehicle 35 exited ROI after 1.23s
+2025-08-14 10:16:53,003 - DEBUG - Vehicle 71 exited ROI after 2.15s
+2025-08-14 10:16:53,156 - DEBUG - Vehicle 74 entered ROI
+2025-08-14 10:16:53,474 - DEBUG - Vehicle 75 entered ROI
+2025-08-14 10:16:54,088 - DEBUG - Vehicle 77 entered ROI
+2025-08-14 10:16:59,985 - DEBUG - Vehicle 88 entered ROI
+2025-08-14 10:17:00,144 - DEBUG - Vehicle 88 exited ROI after 0.00s
+2025-08-14 10:17:00,808 - DEBUG - Vehicle 90 entered ROI
+2025-08-14 10:17:00,968 - DEBUG - Vehicle 90 exited ROI after 0.00s
+2025-08-14 10:17:01,134 - DEBUG - Vehicle 91 entered ROI
+2025-08-14 10:17:01,286 - DEBUG - Vehicle 91 exited ROI after 0.00s
+2025-08-14 10:17:01,445 - DEBUG - Vehicle 93 entered ROI
+2025-08-14 10:17:01,446 - DEBUG - Vehicle 94 entered ROI
+2025-08-14 10:17:01,609 - DEBUG - Vehicle 93 exited ROI after 0.00s
+2025-08-14 10:17:02,709 - DEBUG - Vehicle 94 exited ROI after 1.11s
+2025-08-14 10:17:02,866 - DEBUG - Vehicle 96 entered ROI
+2025-08-14 10:17:03,319 - DEBUG - Vehicle 97 entered ROI
+2025-08-14 10:17:03,531 - DEBUG - Vehicle 97 exited ROI after 0.00s
+2025-08-14 10:17:03,532 - DEBUG - Vehicle 98 entered ROI
+2025-08-14 10:17:03,846 - DEBUG - Vehicle 100 entered ROI
+2025-08-14 10:17:05,255 - DEBUG - Vehicle 67 exited ROI after 17.87s
+2025-08-14 10:17:05,256 - DEBUG - Vehicle 103 entered ROI
+2025-08-14 10:17:15,203 - DEBUG - Vehicle 108 entered ROI
+2025-08-14 10:17:15,505 - DEBUG - Vehicle 108 exited ROI after 0.15s
+2025-08-14 10:17:15,647 - DEBUG - Vehicle 109 entered ROI
+2025-08-14 10:17:16,745 - DEBUG - Vehicle 109 exited ROI after 0.93s
+2025-08-14 10:17:17,043 - DEBUG - Vehicle 109 entered ROI
+2025-08-14 10:17:17,192 - DEBUG - Vehicle 109 exited ROI after 0.93s
+2025-08-14 10:17:17,351 - DEBUG - Vehicle 110 entered ROI
+2025-08-14 10:17:17,656 - DEBUG - Vehicle 107 entered ROI
+2025-08-14 10:17:18,275 - DEBUG - Vehicle 108 entered ROI
+2025-08-14 10:17:19,215 - DEBUG - Vehicle 113 entered ROI
+2025-08-14 10:17:19,368 - DEBUG - Vehicle 113 exited ROI after 0.00s
+2025-08-14 10:17:19,532 - DEBUG - Vehicle 115 entered ROI
+2025-08-14 10:17:19,702 - DEBUG - Vehicle 115 exited ROI after 0.00s
+2025-08-14 10:17:19,865 - DEBUG - Vehicle 118 entered ROI
+2025-08-14 10:17:20,025 - DEBUG - Vehicle 118 exited ROI after 0.00s
+2025-08-14 10:17:20,181 - DEBUG - Vehicle 120 entered ROI
+2025-08-14 10:17:20,343 - DEBUG - Vehicle 120 exited ROI after 0.00s
+2025-08-14 10:17:20,685 - DEBUG - Vehicle 120 entered ROI
+2025-08-14 10:17:20,992 - DEBUG - Vehicle 112 entered ROI
+2025-08-14 10:17:20,993 - DEBUG - Vehicle 120 exited ROI after 0.16s
+2025-08-14 10:17:22,262 - DEBUG - Vehicle 117 entered ROI
+2025-08-14 10:17:26,382 - DEBUG - Vehicle 117 exited ROI after 3.97s
+2025-08-14 10:17:27,326 - DEBUG - Vehicle 125 entered ROI
+2025-08-14 10:17:30,288 - DEBUG - Vehicle 117 entered ROI
+2025-08-14 10:17:30,605 - DEBUG - Vehicle 110 exited ROI after 13.10s
+2025-08-14 10:17:32,454 - DEBUG - Vehicle 112 exited ROI after 11.31s
+2025-08-14 10:17:33,957 - DEBUG - Vehicle 118 entered ROI
+2025-08-14 10:17:37,143 - DEBUG - Vehicle 127 entered ROI
+2025-08-14 10:17:37,432 - DEBUG - Vehicle 125 exited ROI after 9.96s
+2025-08-14 10:17:37,595 - DEBUG - Vehicle 128 entered ROI
+2025-08-14 10:17:37,933 - DEBUG - Vehicle 129 entered ROI
+2025-08-14 10:17:38,246 - DEBUG - Vehicle 130 entered ROI
+2025-08-14 10:17:42,236 - DEBUG - Vehicle 130 exited ROI after 3.84s
+2025-08-14 10:17:44,553 - DEBUG - Vehicle 117 exited ROI after 14.11s
+2025-08-14 10:17:47,470 - DEBUG - Vehicle 118 exited ROI after 13.36s
+2025-08-14 10:17:50,740 - INFO - Processing complete. Saved to output.mp4

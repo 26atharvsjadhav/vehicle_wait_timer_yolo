@@ -1,0 +1,9 @@
+torch
+torchvision
+opencv-python
+numpy
+torch
+torchvision
+opencv-python
+ultralytics==8.2.77
+deep-sort-realtime
